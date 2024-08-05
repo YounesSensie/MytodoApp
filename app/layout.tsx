@@ -25,7 +25,7 @@ export default function RootLayout({
             enableSystem
             disableTransitionOnChange
           >
-          <div className=" bg-backcolor h-screen">
+          <div className="bg-backcolor h-screen">
               {children}
           </div>
       </ThemeProvider>
